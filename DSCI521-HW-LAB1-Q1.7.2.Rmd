@@ -1,0 +1,17 @@
+---
+title: "DSCI521-HW-LAB1-Q1.7.2"
+author: "Qufei Hu"
+date: "2023/3/16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+Random words for DSCI521 HW LAB1 Q1.7.2
+```{r}
+print("King Jong Un is so cool!")
+```
+
